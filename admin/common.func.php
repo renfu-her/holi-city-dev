@@ -42,10 +42,10 @@ ini_set('date.timezone','Asia/Taipei');
 $Day = date("Y-m-d");//今天日期
 
 /* MySQL設定 */
-define('DB_NAME','holi');
-define('DB_USER','holi-dba');
-define('DB_PASSWD','.}XMh.3A*wX%N}4');
-define('DB_HOST','139.162.5.79');
+define('DB_NAME','holi-city');
+define('DB_USER','holi-city');
+define('DB_PASSWD','IvX9m0PbfkmMPreiVQiy');
+define('DB_HOST','127.0.0.1');
 define('DB_TYPE','mysql');
 
 try {
